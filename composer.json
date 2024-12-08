@@ -1,0 +1,19 @@
+{
+    "name": "rimorsoft/phpcourse",
+    "description": "basic php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rimorsoft\\Phpcourse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlejandroAHF",
+            "email": "aleherfernandez@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
